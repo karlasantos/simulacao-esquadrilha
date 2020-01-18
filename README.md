@@ -1,10 +1,11 @@
 ﻿# simulacao-esquadrilha
 Trabalho realizado durante curso de graduação em *14 de janeiro de 2018*.
 
-Exemplificação dos modelos de simulação, resolvendo a seguinte questão do livro **_Modelagem e simulação de eventos discretos: Teoria e Aplicações, de  Leonardo Chwif e Afonso Medina_**:
+* Exemplificação dos modelos de simulação
+* Questão do livro **_Modelagem e simulação de eventos discretos: Teoria e Aplicações, de  Leonardo Chwif e Afonso Medina_**:
 
-* A esquadrilha Abutre está perseguindo o pombo-correio Doodle. O avião projetado por Klunk está em perseguição ao pombo utilizando um radar capaz de identificar sualocalização a cada cinco segundos. Assim que o pombo é localizado, o avião muda a sua trajetória em direção a ele. O pombo Doodle é capaz de realizar manobras evasivas a qualquer instante; contudo , só pode olhar a posição do aviãoa cada 4 segundos. Na primeira identificação do radar, o pombo está a 100m do avião, no mesmo plano e olhando para a frente do avião.
-Considere que a velocidade do avião é igual a 90m/s e a do pombo é igual a 30m/s.*
+_A esquadrilha Abutre está perseguindo o pombo-correio Doodle. O avião projetado por Klunk está em perseguição ao pombo utilizando um radar capaz de identificar sualocalização a cada cinco segundos. Assim que o pombo é localizado, o avião muda a sua trajetória em direção a ele. O pombo Doodle é capaz de realizar manobras evasivas a qualquer instante; contudo , só pode olhar a posição do aviãoa cada 4 segundos. Na primeira identificação do radar, o pombo está a 100m do avião, no mesmo plano e olhando para a frente do avião.
+Considere que a velocidade do avião é igual a 90m/s e a do pombo é igual a 30m/s._
 
 *a) Qual o tipo de simulação mais adequada?*
 
