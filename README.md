@@ -1,4 +1,4 @@
-﻿# simulacao-esquadrilha
+﻿# Simulação Esquadrilha Abutre e Pombo Doodle
 Trabalho em realizado durante curso de graduação em *14 de janeiro de 2018*, desenvolvido em **Java**:
 
 * Exemplificação dos modelos de simulação
