@@ -1,5 +1,5 @@
 ﻿# simulacao-esquadrilha
-Trabalho realizado durante curso de graduação em *14 de janeiro de 2018*.
+Trabalho em realizado durante curso de graduação em *14 de janeiro de 2018*, desenvolvido em **Java**:
 
 * Exemplificação dos modelos de simulação
 * Questão do livro **_Modelagem e simulação de eventos discretos: Teoria e Aplicações, de  Leonardo Chwif e Afonso Medina_**:
